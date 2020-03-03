@@ -14,7 +14,7 @@ Add your changes from your text editor
 
 Push your changes to a new branch 
 
-Your branch should be named should follow this convention:
+Your branch name should follow this convention:
 
 - Introducing-[Your Slack Username]
 
@@ -24,7 +24,11 @@ Submit merge request to master
 
 ### Step 5
 
-Check that all tests passes and visit to see that your changes have been deployed.
+Check that all tests passes and visit https://startng.github.io/Introduction/ to see that your changes have been deployed.
+
+### Step 5
+
+Login to your HNG Board, and submit the URL of your merged request.
 
 
 
