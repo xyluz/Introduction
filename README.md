@@ -1,39 +1,30 @@
 ## Welcome to Start.NG
 
-Introduce yourself here.
-
-You can use the [editor on GitHub](https://github.com/startng/Introduction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Introduce yourself here. Add your details to the appropriate part of the document.
 
 ### Step 1
 
-Add your details to the table on introduction.md
+Clone this repo (do not do web edits)
 
-```markdown
-Syntax highlighted code block
+### Step 2
 
-# Header 1
-## Header 2
-### Header 3
+Add your changes from your text editor
 
-- Bulleted
-- List
+### Step 3
 
-1. Numbered
-2. List
+Push your changes to a new branch 
 
-**Bold** and _Italic_ and `Code` text
+Your branch should be named should follow this convention:
 
-[Link](url) and ![Image](src)
-```
+- Introducing-[Your Slack Username]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Step 4
 
-### Jekyll Themes
+Submit merge request to master
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/startng/Introduction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Step 5
 
-### Support or Contact
+Check that all tests passes and visit to see that your changes have been deployed.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
