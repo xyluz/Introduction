@@ -26,7 +26,7 @@ Submit merge request to master
 
 Check that all tests passes and visit https://startng.github.io/Introduction/ to see that your changes have been deployed.
 
-### Step 5
+### Step 6
 
 Login to your HNG Board, and submit the URL of your merged request.
 
